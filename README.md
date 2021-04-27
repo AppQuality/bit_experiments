@@ -11,7 +11,7 @@ More info [here](https://harmony-docs.bit.dev/getting-started/installing-bit).
 
 ## Prerequisites
 
-If you bit installed in your system you can skip this.
+If you have bit installed in your system you can skip this.
 
 ### Install BVM
 BVM is a version manager for Bit. Using BVM makes it easier to install and manage multiple versions of Bit in a single environment.
